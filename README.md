@@ -35,10 +35,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+A few challenegs were figuring out how to navigate around the program and to link the
+view controller to the storyboard.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Efren Ramirez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
